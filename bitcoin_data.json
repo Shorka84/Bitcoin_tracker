@@ -1,0 +1,43 @@
+{
+    "source": "CoinGecko API",
+    "gdpr_compliant": true,
+    "lawful_basis": "Public market financial data (no PII)",
+    "total_records": 5,
+    "data": [
+        {
+            "timestamp": "2026-09-28 10:44:48",
+            "crypto": "BITCOIN",
+            "price_usd": 82864.0,
+            "price_sek": 824797.0,
+            "change_24h_percent": -2.16
+        },
+        {
+            "timestamp": "2026-09-28 10:44:58",
+            "crypto": "BITCOIN",
+            "price_usd": 82864.0,
+            "price_sek": 824797.0,
+            "change_24h_percent": -2.16
+        },
+        {
+            "timestamp": "2026-09-28 10:45:08",
+            "crypto": "BITCOIN",
+            "price_usd": 82864.0,
+            "price_sek": 824797.0,
+            "change_24h_percent": -2.16
+        },
+        {
+            "timestamp": "2026-09-28 10:45:18",
+            "crypto": "BITCOIN",
+            "price_usd": 82864.0,
+            "price_sek": 824797.0,
+            "change_24h_percent": -2.16
+        },
+        {
+            "timestamp": "2026-09-28 10:45:28",
+            "crypto": "BITCOIN",
+            "price_usd": 82864.0,
+            "price_sek": 824797.0,
+            "change_24h_percent": -2.16
+        }
+    ]
+}
