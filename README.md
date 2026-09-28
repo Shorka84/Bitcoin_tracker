@@ -7,7 +7,7 @@ Ett objektorienterat Python-skript som hämtar realtidsdata för Bitcoin-priset 
 * **API-anrop & Externa bibliotek:** Hämtar levande marknadsdata via `requests` API-anrop.
 * **Felhantering & Validering:** Skyddat mot nätverksfel med `try/except` och `raise_for_status()`, samt validerar att mottagna priser är giltiga.
 * **Automation & Loopar:** Samlar in flera mätningar automatiskt i en `for`-loop med pausintervall (`time.sleep`).
-* **Filhantering:** Exporterar automatiskt historiklistan till både **JSON** och **CSV**.
+* **Filhantering:** Exporterar automatiskt klistan till både **JSON** och **CSV**.
 
 ## 🛠️ Installation & Användning
 
